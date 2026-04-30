@@ -1,0 +1,3 @@
+# Runtime uses only Python standard library: tkinter, sqlite3, hashlib, logging.
+# Build dependency for production package:
+pyinstaller>=6.0
